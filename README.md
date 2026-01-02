@@ -34,17 +34,15 @@ I am actively looking for **MERN Stack Developer opportunities** where I can con
 
 ## 🤖 AI Tools I Use
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="40" title="ChatGPT"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubcopilot.svg" width="40" title="GitHub Copilot"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlegemini.svg" width="40" title="Google Gemini"/>
-</p>
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 I use AI tools like **ChatGPT, GitHub Copilot, and Google Gemini** to:
-- Improve development speed and productivity
-- Debug and understand complex logic
-- Write cleaner and optimized code
-- Assist in API design and problem-solving
+- Improve development speed and productivity  
+- Debug and understand complex logic  
+- Write cleaner and optimized code  
+- Assist in API design and problem-solving  
 
 ---
 
@@ -74,21 +72,6 @@ I use AI tools like **ChatGPT, GitHub Copilot, and Google Gemini** to:
 
 ---
 
-## 📌 Projects
-
-### 🔹 Multi-Company SaaS Application (MERN)
-- Designed a multi-tenant system where multiple companies use the same app securely.
-- Implemented authentication and role-based access.
-- Ensured proper data isolation using MongoDB schemas.
-- Built reusable React components.
-
-### 🔹 Media Search Application
-- Built a search app for photos, videos, and GIFs using external APIs.
-- Implemented global state management using Redux Toolkit.
-- Focused on performance and clean UI.
-
----
-
 ## 🎯 What I’m Looking For
 - MERN Stack Developer / Full Stack Developer role  
 - Startup or product-based company  
@@ -106,12 +89,13 @@ I use AI tools like **ChatGPT, GitHub Copilot, and Google Gemini** to:
 ---
 
 ## 📊 GitHub Stats
+
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishiprasadraut&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishiprasadraut&show_icons=true&theme=default" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishiprasadraut" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishiprasadraut&theme=default" />
 </p>
 
 ---
