@@ -100,4 +100,19 @@ I use AI tools like **ChatGPT, GitHub Copilot, and Google Gemini** to:
 
 ---
 
-⭐ *If you are hiring or know someone who is, feel free to connect with me.*
+⭐ *If you are hiring or know someone who is, feel free 👇.*
+
+
+## 🌐 Connect With Me
+
+📧 **Email:** rautrishiprasad78@gmail.com  
+
+<p>
+  <a href="mailto:rautrishiprasad78@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rishiprasad-raut/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
