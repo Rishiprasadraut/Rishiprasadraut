@@ -100,19 +100,6 @@ I use AI tools like **ChatGPT, GitHub Copilot, and Google Gemini** to:
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishiprasadraut&show_icons=true&theme=default" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishiprasadraut&theme=default" />
-</p>
-
----
 
 ⭐ *If you are hiring or know someone who is, feel free 👇.*
 
