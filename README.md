@@ -86,6 +86,14 @@ I use AI tools like **ChatGPT, GitHub Copilot, and Google Gemini** to:
 
 ---
 
+## 🖇️ College Group Project – Quick Chat
+
+A real-time chat application developed as a college group project.  
+It allows users to login, connect, and communicate through a simple and responsive interface.
+
+🔗 **Live Demo:**  
+👉 https://quick-chat-client-lilac.vercel.app/login
+
 ## 🎯 What I’m Looking For
 - MERN Stack Developer / Full Stack Developer role  
 - Startup or product-based company  
